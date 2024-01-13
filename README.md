@@ -1,5 +1,7 @@
-# CodeClauseInternship_ChurnPrediction
-Repo for Code Clause Internship Project of Churn Prediction in Telecom Industry using Logistic Regression
+# Churn Prediction in Telecom Industry
+In response to the escalating challenge of customer churn within the highly competitive telecom industry, this project was initiated to develop and test a cutting-edge churn prediction data model. 
 
-#Resources
+# It is made in a Beginner friendly manner.
+
+# Resources
 https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn
